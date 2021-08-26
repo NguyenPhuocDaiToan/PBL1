@@ -1,0 +1,6 @@
+PBL_demo1: 
++ chưa có chức năng xuất bills giao dịch gần nhất
++ Chưa có chức năng đổi mật khẩu
++ Chưa có chức năng chuyển tiền
++ Cập nhật đăng nhập tài khoản 1 lần, 
+  sau đó tiến hành nhập mật khẩu và không cần nhập tài khoản lại
